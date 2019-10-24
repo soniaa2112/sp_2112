@@ -1,0 +1,16 @@
+#include<stdio.h>
+#incllude<conio.h>
+void main()
+{
+int main()
+{
+int num;
+printf("enter no-");
+scanf("%d",num);
+if(num%2==0)
+printf("even no.\n");
+else
+printf("oddno.\n");
+}
+getch();
+}
